@@ -47,3 +47,17 @@ list of most important features of Java language is given below.**
 - Multithreaded
 - Distributed
 - Dynamic
+
+# Object-oriented 
+- Java is an object-oriented programming language. Everything in Java is an object. Object-oriented means we organize our software as a combination of different types of objects that incorporates both data and behavior.
+
+- Object-oriented programming (OOPs) is a methodology that simplifies software development and maintenance by providing some rules.
+
+## Basic concepts of OOPs are:
+
+#### Object
+#### Class
+#### Inheritance
+#### Polymorphism
+#### Abstraction
+#### Encapsulation
