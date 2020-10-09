@@ -29,3 +29,21 @@ There are many devices where Java is currently used. Some of them are as follows
 
 # Why Java Programming named "Java"?
 **Java is an island of Indonesia where the first coffee was produced (called java coffee). It is a kind of espresso bean. Java name was chosen by James Gosling while having coffee near his office.**
+
+# Features of Java
+**The primary objective of Java programming language creation was to make it portable, simple and secure programming language.
+list of most important features of Java language is given below.**
+
+## Java Features
+- Simple
+- Object-Oriented
+- Portable
+- Platform independent
+- Secured
+- Robust
+- Architecture neutral
+- Interpreted
+- High Performance
+- Multithreaded
+- Distributed
+- Dynamic
