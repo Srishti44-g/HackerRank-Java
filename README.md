@@ -1,5 +1,13 @@
 # HackerRank-Java
 # ABOUT JAVA
+**Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
+## Typing discipline: Static, strong, safe, nominative, manifest
+## First appeared: May 23, 1995; 25 years ago
+## Designed by: James Gosling
+## Stable release: Java SE 15 / September 15, 2020; 18 days ago
+## Developer: Oracle Corporation et al
+## Filename extensions: java,.class,.jar
+
 # What is JAVA?
 - **Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.**
 - Java was developed by **Sun Microsystems (which is now the subsidiary of Oracle)** in the year 1995. 
